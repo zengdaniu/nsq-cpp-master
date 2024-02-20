@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-8/root/usr/bin/c++ -rdynamic CMakeFiles/Demo1.dir/main.cpp.o -o Demo1   -L/mnt/hgfs/linuxShare/NinekeServer/sangong/Public/uvnsq-master/consumer-example/../uvnsq/lib  -Wl,-rpath,/mnt/hgfs/linuxShare/NinekeServer/sangong/Public/uvnsq-master/consumer-example/../uvnsq/lib -luvnsq -lpthread -lm 
